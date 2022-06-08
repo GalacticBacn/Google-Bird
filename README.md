@@ -1,20 +1,35 @@
-**CODE INDEX :D**
+# How to start the game
+If you don't want to download all of the code please use this replit link
+<https://google-bird.galacticbacon.repl.co/>
+
+It will run the game on the replit website. :)
+
+## **CODE INDEX :D**
 
 Preload function
-    >Line 21
+~~~
+Line 21
+~~~
 
 Setup function
-    >Line 46
+~~~
+Line 46
+~~~
 
 Scoreboard function
-    >Line 100
+~~~    
+Line 100
+~~~
 
 Draw function
-    >Line 136
+~~~
+Line 136
+~~~
 
 keypressed function
-    >Line 201
-
+~~~
+Line 201
+~~~
 
 
 Class Bird
@@ -55,5 +70,6 @@ Starts @ Line 319
     Line 359
 ~~~
 GenerateTube function
-    >Line 372
-
+~~~
+Line 372
+~~~
