@@ -1,0 +1,16 @@
+body {
+  text-align: center;
+  /* background-color: #CAC084; */
+  background: #2aaeed;
+  background-size: 100px 100px;
+  background-repeat: repeat round;
+  color: white;
+  font-family: sans-serif;
+  font-size: 40px;
+  height: 100vh;
+}
+
+.p5Canvas {
+  border: 5px solid white;
+  margin-top: 10%;
+}
