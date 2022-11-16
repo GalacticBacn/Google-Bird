@@ -545,6 +545,7 @@ class PowerUp {
 ~~~
 
 **Ranum**
+
 return random number
 >Line 494
 ~~~sh
